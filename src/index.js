@@ -1,1 +1,2 @@
-console.log('Webpack Babel Setup');
+console.warn('Webpack Babel Setup');
+module.hot.accept();
