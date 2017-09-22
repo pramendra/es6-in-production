@@ -11,3 +11,6 @@ webpack:legacybuild
 ```
 
 ## Serve dist/index via web server in differnt brwoser
+
+#slide
+https://speakerdeck.com/pramendra/es6-in-production
